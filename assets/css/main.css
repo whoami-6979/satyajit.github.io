@@ -2620,13 +2620,13 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
-		margin: 0 0 2em 0;
+		/*list-style: disc;*/
+		/*margin: 0 0 2em 0;*/
 		padding-left: 1em;
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			padding-left: 2em;
 		}
 
 		ul.alt {
@@ -3901,4 +3901,3 @@ input, select, textarea {
 			}
 
 		}
-
